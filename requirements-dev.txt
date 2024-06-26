@@ -1,0 +1,7 @@
+# default dependencies
+-r requirements.txt
+
+# only for development
+black
+vulture
+pytest
